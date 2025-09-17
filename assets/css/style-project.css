@@ -36,6 +36,14 @@ body {
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.511);
 }
 
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
 .otter-profile{
     width: 100%;
     display: flex;
